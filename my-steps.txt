@@ -64,40 +64,67 @@ mkdir proteins
 mv meats proteins
 
 ### Step 3E
+cd veggies
+touch carrot.txt
+touch pea.txt
 
 
 ### Step 3F
+cd ..
+cd sweets
+touch cookie.txt
 
 
 ### Step 3G
+mv cookie.txt donut.txt
 
 
-### Step 3H
+###Step 3H
+cd ..
+touch thing.txt
 
 
 ### Step 3I
+cp thing.txt tofu.txt
 
 
 ### Step 3J
+mv tofu.txt proteins
 
 
 ### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins
+cd proteins
+mv crab.txt meats
 
 
 ### Step 3L
+rm thing.txt
 
 
 ### Step 3M
-
+cd ..
+cp -r veggies plants
 
 ### Step 3N
-
+mkdir drinks
+rm -r drinks
 
 
 ### Step 4
+git init
+git add .
+git commit -m 'first commit'
+git config --global user.email "millertroy001@yahoo.com
+> git config -- global user.name "Troy Miller
+git commit -m 'first commit'
 
 
 ### Step 5
+git remote add origin https://github.com/MillerTroy001/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 
 ### Step 6
