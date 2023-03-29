@@ -1,0 +1,107 @@
+### Step 2A 
+/c/Users/mille
+
+
+### Step 2B
+mille@Troy_PC MINGW64 ~
+$ cd OneDrive
+
+mille@Troy_PC MINGW64 ~/OneDrive
+$ cd Desktop
+
+
+### Step 2C
+$ cd unit1-git-practice
+
+
+### Step 2D
+/c/Users/mille/OneDrive/Desktop/unit1-git-practice
+
+### Step 2E
+$ ls
+
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd ~
+
+### Step 2H
+/c/Users/mille
+bash: /c/Users/mille: Is a directory
+
+
+### Step 2I
+ AppData/             Favorites/         NTUSER.DAT{6f327757-46dd-11ed-8218-70b3d55476a5}.TM.blf                                        Recent@         Templates@
+'Application Data'@   Links/             NTUSER.DAT{6f327757-46dd-11ed-8218-70b3d55476a5}.TMContainer00000000000000000001.regtrans-ms  'Saved Games'/   Videos/
+ Contacts/           'Local Settings'@   NTUSER.DAT{6f327757-46dd-11ed-8218-70b3d55476a5}.TMContainer00000000000000000002.regtrans-ms   Searches/       ansel/
+ Cookies@             Music/             NetHood@                                                                                       SendTo@         ntuser.dat.LOG1
+ Documents/          'My Documents'@     OneDrive/                                                                                     'Start Menu'@    ntuser.dat.LOG2
+ Downloads/           NTUSER.DAT         PrintHood@                                                                                     Steam/          ntuser.ini
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd ~/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 3A
+mkdir desserts, mkdir meats, mkdir veggies
+
+
+### Step 3B
+mv desserts sweets
+
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
